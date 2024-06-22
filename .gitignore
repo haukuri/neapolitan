@@ -4,4 +4,4 @@ neapolitan.code-workspace
 .coverage
 dist
 .idea
-
+.venv
